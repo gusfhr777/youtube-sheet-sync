@@ -1,0 +1,21 @@
+{
+  "SOURCE_SHEET": "트릭컬 영상 DB",
+  "TARGET_EN": "Trickal Video DB",
+  "TARGET_JP": "トリックカル 動画 DB",
+
+  "LANG_MAP": {
+    "한": { "en": "ko", "jp": "韓" },
+    "영": { "en": "en", "jp": "英" },
+    "일": { "en": "jp", "jp": "日" },
+    "중": { "en": "cn", "jp": "中" }
+  },
+
+  "TYPE_MAP": {
+    "음악": { "en": "Music", "jp": "音楽" },
+    "볼팝": { "en": "Bolpop", "jp": "頬ポップ" },
+    "공식": { "en": "Official", "jp": "公式" },
+    "성우": { "en": "Voice Actor", "jp": "声優" },
+    "커버": { "en": "Cover", "jp": "カバー" },
+    "합성": { "en": "Mashup", "jp": "音MAD" }
+  }
+}
