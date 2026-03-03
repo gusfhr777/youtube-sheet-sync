@@ -73,7 +73,12 @@ git clone https://github.com/gusfhr777/youtube-sheet-sync.git
 cd youtube-sheet-sync
 ```
 
-7. `crontab -e`를 통해 crontab 설정
+7. 도커 이미지 빌드
+```bash
+docker build -t youtube-sheet-sync .
+```
+
+9. `crontab -e`를 통해 crontab 설정
 ```bash
 0 9  * * * docker run --rm youtube-sheet-sync >> /home/<user>/youtube.log 2>&1
 ```
