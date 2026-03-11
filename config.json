@@ -16,6 +16,8 @@
     "공식": { "en": "Official", "jp": "公式" },
     "성우": { "en": "Voice Actor", "jp": "声優" },
     "커버": { "en": "Cover", "jp": "カバー" },
-    "합성": { "en": "Mashup", "jp": "音MAD" }
+    "합성": { "en": "Mashup", "jp": "音MAD" },
+    "애니": { "en": "Anime", "jp": "アニメ"},
+    "밈": { "en": "Meme", "jp": "ミーム"}
   }
 }
